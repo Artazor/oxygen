@@ -30,3 +30,7 @@ node_modules
 # Platform specific common offenders
 Thumbs.db
 *.DS_Store
+
+# Sublime Text leaks
+*.sublime-project
+*.sublime-workspace
