@@ -1,7 +1,7 @@
 {
   "name": "oxygen-all",
   "version": "0.1.0",
-  "description": "NodeJS Web Framework for ES6 Harmony",
+  "description": "NodeJS Web Framework for ES6 Harmony (based on Koa.js)",
   "main": "lib/oxygen.js",
   "scripts": {
     "test": "make test"
