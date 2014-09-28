@@ -1,4 +1,4 @@
 oxygen
 ======
 
-Oxygen Web Framework for NodeJS with Fibers
+Oxygen Web Framework for NodeJS ES6 Harmony
