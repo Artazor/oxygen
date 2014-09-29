@@ -1,6 +1,6 @@
 {
   "name": "oxygen-all",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "NodeJS Web Framework for ES6 Harmony (based on Koa.js)",
   "main": "lib/oxygen.js",
   "scripts": {
@@ -25,12 +25,12 @@
   "dependencies": {
     "promises": "*",
     "debug": "*",
+    "commander": "^2.3.0",
     "regenerator": "*",
     "koa": "~0.12.1"
   },
   "devDependencies": {
     "istanbul-harmony": "~0.3.0",
-    "commander": "^2.3.0",
     "make-lint": "^1.0.1",
     "mocha": "^1.17.0",
     "should": "^3.1.0"
