@@ -25,15 +25,15 @@
   "dependencies": {
     "promises": "*",
     "debug": "*",
-    "regenerator": "*"
+    "regenerator": "*",
+    "koa": "~0.12.1"
   },
   "devDependencies": {
     "istanbul-harmony": "~0.3.0",
     "commander": "^2.3.0",
     "make-lint": "^1.0.1",
     "mocha": "^1.17.0",
-    "should": "^3.1.0",
-    "koa": "~0.12.1"
+    "should": "^3.1.0"
   },
   "author": "Anatoly Ressin",
   "license": "MIT",
@@ -43,5 +43,12 @@
   "homepage": "https://github.com/Artazor/oxygen",
   "engines": {
     "node": ">= 0.11.13"
-  }
+  },
+  "files": [
+    "lib",
+    "bin",
+    "LICENSE",
+    "History.md",
+    "README.md"
+  ]
 }
